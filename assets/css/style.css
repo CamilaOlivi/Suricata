@@ -1,0 +1,34 @@
+@charset "UTF-8";
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.fondo-rosa{
+  background-color: #e83e8c !important;
+}
+
+.logo-imagen{
+  max-height: 50px;
+}
+
+.hero h1{
+  font-size: 60px;
+}
+
+.icons-section{
+  color: white;
+  font-size: 40px;
+}
+
+.fa-iconos{
+  font-size: 90px;
+}
+
+.pagos h2{
+  font-size: 50px;
+  padding-top: 10%;
+}
+
+.logo-footer{
+  max-height: 100px;
+}
